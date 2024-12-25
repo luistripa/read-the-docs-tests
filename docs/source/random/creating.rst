@@ -1,4 +1,0 @@
-Creating
-========
-
-Random page
