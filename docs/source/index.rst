@@ -19,5 +19,5 @@ Contents
 .. toctree::
 
    usage
-   api
    testing
+   api
