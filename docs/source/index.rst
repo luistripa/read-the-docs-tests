@@ -20,4 +20,5 @@ Contents
 
    usage
    testing
+   random
    api
