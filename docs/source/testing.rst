@@ -1,4 +1,4 @@
-Testing testing
-=====
+Testing
+=======
 
 This is a test page.
